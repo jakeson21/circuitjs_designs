@@ -1,2 +1,2 @@
-# circuitjs_designs
-Examples for CircuitJs
+# Circuitjs Designs
+Examples for Circuitjs
